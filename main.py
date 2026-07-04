@@ -6,6 +6,7 @@ ypoints = np.array([0, 250])
 a=5
 b=9
 c=95
+e=5
 def aq():
     return 3
 plt.plot(xpoints, ypoints)
